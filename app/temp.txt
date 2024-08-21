@@ -1,0 +1,31 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://169.255.255.2:8501
+  External URL: http://35.170.135.114:8501
+
+------------------------------
+Extracting the frames !
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_50.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_75.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_100.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_125.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_150.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_175.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_200.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_225.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_250.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_275.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_300.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_325.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_350.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_375.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_400.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_425.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_450.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_475.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_500.jpg
+writing -- ../data/split_video/12MachineLearningSpecializationCourse1Week1Lesson3720p.mp4_525.jpg

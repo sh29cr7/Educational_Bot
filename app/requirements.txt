@@ -1,0 +1,12 @@
+streamlit==1.29.0
+boto3
+botocore
+langchain
+langchain-aws
+chromadb
+langchain-community
+langchain-core
+rouge-score
+bs4
+opencv-python-headless
+lxml
